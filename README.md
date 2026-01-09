@@ -115,3 +115,4 @@
 
   <i>You're not running a bot.<br>You're unleashing a **predator**.</i>
 </p>
+start bot
